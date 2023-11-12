@@ -96,6 +96,10 @@ function boldPassage(word, text){
   return p;
 }
 
+function boldWords(text){
+
+}
+
 
 // UI Logic
 
@@ -124,3 +128,4 @@ window.addEventListener("load", function () {
     .querySelector("form#word-counter")
     .addEventListener("submit", handleFormSubmission);
 });
+
