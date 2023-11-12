@@ -100,6 +100,21 @@ function boldWords(text){
 
 }
 
+function boldWords(text, word){
+
+}
+function boldWords(text, word){
+
+}
+
+function boldWords(text, word){
+
+}
+
+function boldWords(text, word){
+
+}
+
 
 // UI Logic
 
